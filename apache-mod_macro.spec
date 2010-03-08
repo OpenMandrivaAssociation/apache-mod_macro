@@ -6,7 +6,7 @@
 Summary:	DSO module for the apache web server
 Name:		apache-%{mod_name}
 Version:	1.1.10
-Release:	%mkrel 5
+Release:	%mkrel 6
 Group:		System/Servers
 License:	BSD-style
 URL:		http://www.coelho.net/mod_macro/
