@@ -6,7 +6,7 @@
 Summary:	DSO module for the apache web server
 Name:		apache-%{mod_name}
 Version:	1.2.1
-Release:	1
+Release:	2
 Group:		System/Servers
 License:	BSD-style
 URL:		http://www.coelho.net/mod_macro/
