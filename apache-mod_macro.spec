@@ -9,7 +9,7 @@ Version:	1.2.1
 Release:	2
 Group:		System/Servers
 License:	BSD-style
-URL:		http://www.coelho.net/mod_macro/
+URL:		https://www.coelho.net/mod_macro/
 Source0:	http://www.cri.ensmp.fr/~coelho/mod_macro/%{mod_name}-%{version}.tar.gz
 Source1:	%{mod_conf}
 Requires(pre): rpm-helper
